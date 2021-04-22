@@ -5,10 +5,10 @@
 <div align="center">
    <div> 
       
-     <h3> 💻 &nbsp;About Me </h3>
+  <h3> 💻 &nbsp;About Me </h3>
 
-     - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-     - 🎓 &nbsp; Studying Information System at Universitas Internasional Batam.
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+  - 🎓 &nbsp; Studying Information System at Universitas Internasional Batam.
   </div>
   
 <i>Happy Coding!</i> 😊
