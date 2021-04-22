@@ -17,7 +17,7 @@
 
 &ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React Native](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat-square&logo=Oracle)&ensp;
 
-:rocket: I'm use these tools:
+:rocket: I'm using these tools:
 
 &ensp;![Git](https://img.shields.io/badge/-Git-3E2C00?style=flat-square&logo=Git)&ensp;![Visual Studio Code](https://img.shields.io/badge/-VsCode-2C2C32?style=flat-square&logo=visual-studio-code&logoColor=0078D7)
 
