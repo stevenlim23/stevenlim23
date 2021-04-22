@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=regchiu&color=blueviolet&style=flat-square)
 
 -----
 Credits: [ABSphreak](https://github.com/ABSphreak)
