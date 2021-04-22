@@ -11,6 +11,7 @@
   - 🎓 &nbsp; Studying Information System at Universitas Internasional Batam.
   </div>
   
+  --
   
 🌱 I'm currently learning:
 
