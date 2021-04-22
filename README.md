@@ -4,7 +4,7 @@
 
 <div align="center">
    <div> 
-      <h3 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ovindu Wijethunge </h3>
+      <h3 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Steven Lim </h3>
       
   <h3> 💻 &nbsp;About Me </h3>
 
