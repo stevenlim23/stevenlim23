@@ -14,7 +14,7 @@
   
 🌱 I'm currently learning:
 
-&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React Native](https://img.shields.io/badge/-React Native-000000?style=flat-square&logo=React)&ensp;![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat-square&logo=Oracle)&ensp;
+&ensp;![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=JavaScript)&ensp;![Node.js](https://img.shields.io/badge/-Node.js-303030?style=flat-square&logo=Node.js)&ensp;![React Native](https://img.shields.io/badge/-React-000000?style=flat-square&logo=React)&ensp;![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat-square&logo=Oracle)&ensp;
 
 :rocket: I'm use these tools:
 
