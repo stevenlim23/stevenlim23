@@ -2,16 +2,15 @@
 <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 
-<h2>I'm Steven.</h2>
-
-<h3> 💻 &nbsp;About Me </h3>
-
-- 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
-- 🎓 &nbsp; Studying Software Enginering at Universitas Internasional Batam.
-
-
-
 <div align="center">
+   <div> 
+     <h2>I'm Steven.</h2>
+     
+  <h3> 💻 &nbsp;About Me </h3>
+
+  - 🤔 &nbsp; Exploring new technologies and developing software solutions to our worlds tech problems.
+  - 🎓 &nbsp; Studying Software Enginering at Universitas Internasional Batam.
+  </div>
   
 <i>Happy Coding!</i> 😊
 
